@@ -8,3 +8,6 @@ All for Swift Playgrounds!. Use Create ML to Train Model and Core ML to recogniz
 
 ## How to use Core ML in swift Playground
 Playground don't recognize .mlmodel file by default, so we need a iOS Project to help us find the compiled mlmodelc folder, and copy the mlmodelc folder to playground's resourse folder, and the auto generated helper class to playground's sourse folder and change it to public. Then it works!
+
+## YouTube Link Here
+https://youtu.be/jmUSfVf3ADg
